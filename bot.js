@@ -15,7 +15,7 @@ const vk = new(require('vk-io'));
 const VK = require("vk-io"); 
  
 var bot1 = new bots(VK, {
-	token: "f06126c2690d17bc426bdb56a966179be1278536067972dd392eec76fef9e3f7eb1de941713b2d3f96d31" // Токен страницы
+	 token: "f06126c2690d17bc426bdb56a966179be1278536067972dd392eec76fef9e3f7eb1de941713b2d3f96d31" // Токен страницы
 }); 
 // DataBase 
 const acc = require('./base/acc.json');  
@@ -24,11 +24,11 @@ const game = require('./base/game.json');
 const uid = require('./base/ids.json'); 
 const white_list = [347241116, 428576758]
 
- //  Подключение группы
+ /*//  Подключение группы
 group.setOptions({
 	token: "f06126c2690d17bc426bdb56a966179be1278536067972dd392eec76fef9e3f7eb1de941713b2d3f96d31",    // ТОКЕН ГРУППЫ
 	call: "execute"
-});
+}); */
 
 //  Запуск
 group.longpoll.start().then(  
