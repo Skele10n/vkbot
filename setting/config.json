@@ -1,0 +1,17 @@
+{
+	"group_url": "[bot_carleone|Carleone]",
+	"api_captcha": "a0244863424dd4361d181fa1b1f945d4",
+	"bot": "CarleonE",
+	"ver": "4.1.2",
+	"group": 172618715,
+	"coder": 347241116,
+	"ban_topic": "",
+	"antiflood_time": 30000,
+	"antiflood_limit": 10,
+	"bonus_balance": false,
+	"bonus_exs": false,
+	"promo": {
+		"activ": 30,
+		"balance": 200000
+	}
+}
