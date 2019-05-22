@@ -26,7 +26,7 @@ const white_list = [347241116, 428576758]
 
  //  Подключение группы
 group.setOptions({
-	token: "be721225fceb28eff08e1960be29437b1c0050abc9a8dc8018c97fbfe7c8b02ff57ce7efbc936a74d371c",    // ТОКЕН ГРУППЫ
+	token: "f06126c2690d17bc426bdb56a966179be1278536067972dd392eec76fef9e3f7eb1de941713b2d3f96d31",    // ТОКЕН ГРУППЫ
 	call: "execute"
 });
 
