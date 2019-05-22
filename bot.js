@@ -15,7 +15,7 @@ const vk = new(require('vk-io'));
 const VK = require("vk-io"); 
  
 var bot1 = new bots(VK, {
-	token: "49f1b6d83041dd1c0274a004fc1b0501417e46f971e38cf3079200edcf9fd33db0fbfe1ea693d4a6ae06e" // Токен страницы
+	token: "f49d94c34a46a97255520b75fd171b3a22f0f040f09d6d9f9cff63149cec857af517ba0fc1387ce34f136" // Токен страницы
 }); 
 // DataBase 
 const acc = require('./base/acc.json');  
